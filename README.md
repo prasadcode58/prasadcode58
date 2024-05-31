@@ -33,6 +33,12 @@
     <a href="https://www.instagram.com/puraify.3d/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    <a href="https://leetcode.com/u/prasadcode58/" target="_blank">
+     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+    <a href="https://leetcode.com/u/prasadcode58/" target="_blank">
+     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
  <hr/>
