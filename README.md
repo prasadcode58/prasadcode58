@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=ffc0cb&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prasad+Mali!;" />
 </h1>
 
-<h3 align="center">A passionate Web, App and ML developer from India 🇨🇦</h3>
+<h3 align="center">A passionate Web, App and ML developer from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Innovate 3D**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **React.js, MongoDB, ML**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **"Kopiyama" aka "Kopi-chan" is really famous singer, but she initially started singing with "Kobasolo"**
 
  </div>
  
