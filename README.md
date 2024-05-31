@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React.js, MongoDB, ML**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/prasadcode58/prasadcode58/issues)**
 
 ⚡ Fun fact **"Kopiyama" aka "Kopi-chan" is really famous singer, but she initially started singing with "Kobasolo"**
 
