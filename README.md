@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/prasadcode58/prasadcode58/issues)**
 
-⚡ Fun fact **"Kopiyama" aka "Kopi-chan" is really famous singer, but she initially started singing with "Kobasolo"**
+⚡ Fun fact **Famous japanese singer "Kopiyama" aka "Kopi-chan" is not just a cover singer, she also has her own unique songs too !**
 
  </div>
  
