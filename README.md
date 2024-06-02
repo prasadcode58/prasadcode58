@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/prasadcode58/prasadcode58/issues)**
 
-⚡ Fun fact **Famous japanese singer, "Kopiyama" aka "Kopi-chan" is not just a cover singer, she also has her own original songs!**
+🌸 Fun fact : **Japanese singer Kopiyama (Kopi-chan) isn't just a cover artist; she has originals too.**
 
  </div>
  
