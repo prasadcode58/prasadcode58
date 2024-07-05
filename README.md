@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/prasadcode58/prasadcode58/issues)**
 
-🌸 Fun fact : **Japanese singer Kopiyama (Kopi-chan) isn't just a cover artist; she has originals too.**
+🌸 Fun fact : **Japanese singer Kopiyama (Kopi-chan) isn't just a cover artist, she has originals too.**
 
  </div>
  
